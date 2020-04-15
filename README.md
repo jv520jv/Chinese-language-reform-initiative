@@ -104,9 +104,20 @@
           
       3.专业术语翻译过于雍长
           医疗,计算机,化工等领域专业用词,汉字造字能力已跟不上时代
+          信通：adsl cad cpu crm cnc ct dna dvd erp gprs hdtv icp ict ic ict iot it id led oa pcb pos usb wifi…… 
+             信息通讯类缩略词太多，需要新造部首，再造新字新词。 
+          塑料：pvc ppr pp pc abs pa pmma pu ps pe pom peek…… 
+              需新造“塑”旁来归类塑料类的新字，把塑料类的缩略词简化。 
+          商业：aa atm cbd ci cpa cpi gdp ktv oem vip diy spa otc…… 
+          组织与标准：apec wto cet opec cmm who gre gmp imf iso itu pmp…… 
+          职位学位：ceo cfo cio cto coo cmo cgo cpa mba mpa…… 
+          本土洋品牌：TCL、FSL、VIVO、OPPO、HTC、ASD、ONLY……
+
+          
           CPU->中央处理器 RAM->随机存储寄存器
           PP板 PVC PE板 聚丙乙烯板
           SSRIS-羟色胺再摄取抑制剂   NRTIs-乙酰胆碱酯酶抑制剂
+          
           //TODO
           汉字造字能力可否定义新偏旁,新读音来支撑新技术
 
